@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Baking something with Svelte 🧡<br>Using Rust as Python 🔥<br>Don't force me to use Lua, Go or Python 😢<br>Using Docker 🐋<br>Working on my sanity<br>So many projects, yet non complete<br>🇨🇿 Czech IT Student
 
 
@@ -8,7 +8,6 @@ Baking something with Svelte 🧡<br>Using Rust as Python 🔥<br>Don't force me
 ---
 [![](https://visitcount.itsvg.in/api?id=LPbigFish&icon=0&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/lpbigfish) 
 
   
