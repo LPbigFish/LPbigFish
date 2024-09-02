@@ -1,5 +1,5 @@
 # About Me:
-Baking something with Svelte 🧡<br>Using Rust as Python 🔥<br>Don't force me to use Lua, Go or Python 😢<br>Using Docker 🐋<br>Working on my sanity<br>So many projects, yet non complete<br>🇨🇿 Czech IT Student
+Czech IT Student <br>Baking something with Svelte 🧡<br>Using Rust as Python 🔥<br>Don't force me to use Lua, Go or Python 😢<br>Using Docker 🐋<br>Working on my sanity<br>So many projects, yet non complete
 
 
 # 💻 Tech Stack:
