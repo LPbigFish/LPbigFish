@@ -14,8 +14,8 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lpbigfish) 
 
   ### Crypto
-  **BTC**: bc1qvkja2jewa556envy90wqq289jgdwljzhjc720l
-  **LTC**: ltc1qjwqef3hk7fhexkxj8ac98zuvf0nud08dx8z3r7
-  **EVM Chains**: 0xdd83338cD1417a5B17CD406134F1B534793465f9
+  **BTC**: bc1qvkja2jewa556envy90wqq289jgdwljzhjc720l<br>
+  **LTC**: ltc1qjwqef3hk7fhexkxj8ac98zuvf0nud08dx8z3r7<br>
+  **EVM Chains**: 0xdd83338cD1417a5B17CD406134F1B534793465f9<br>
   **XMR**: 89pvPc6W3gDjfwsVLj6jhqLA3jq5PM95ESrwU4vETrqbdfVyx9ofCwzUAGEo119pxu8LFa1i6ZT4tYLn9drp6NWE4z6E7uJ
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
